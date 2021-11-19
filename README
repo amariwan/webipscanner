@@ -1,0 +1,2 @@
+To generate a new token, run "python3 dashboard/token.py"
+To run Webipscanner, execute "python3 manage.py runserver" and navigate to http://127.0.0.1:8888
